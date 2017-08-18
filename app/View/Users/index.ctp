@@ -6,7 +6,7 @@ else{
 	echo "<table>
 	<tr>
 		<td>id</td>
-		<td>Name</td>
+		<td>Name Xin chao</td>
 		<td>Username</td>
 		<td>Email</td>
 	</tr>";
